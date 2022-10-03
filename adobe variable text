@@ -1,0 +1,17 @@
+@font-face {
+    font-family: adobe-extrabold;
+    src: url(./adobe/AdobeClean-ExtraBold.otf) format("opentype");
+    src: url(./adobe/AdobeClean-Bold.otf) format("opentype");
+}
+@font-face {
+    font-family: adobe-bold;
+    src: url(./adobe/AdobeClean-Bold.otf) format("opentype");
+}
+@font-face {
+    font-family: adobe-cond;
+    src: url(./adobe/AdobeClean-Cond.otf) format("opentype");
+}
+@font-face {
+    font-family: adobe;
+    src: url(./adobe/AdobeClean-Light.otf) format("opentype");
+}
